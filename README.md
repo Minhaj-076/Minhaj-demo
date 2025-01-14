@@ -1,2 +1,2 @@
 # Minhaj-demo
-this is demo rep
+this is my demo repository
